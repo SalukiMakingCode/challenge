@@ -4,7 +4,7 @@
 - Mode: `duo`
 - Type: `consolidation challenge`
 - Duration: `+-4 days`
-- Deadline : 29/10/2021
+- Deadline : 18/07/2022
 
 ## Objectives
 
@@ -82,5 +82,3 @@ You can help each other under these two conditions:
 - The person helping **does not provide a ready-made code** and **does not code for the other**. The objective remains to learn, not to solve. The result is less important than the path. Helps by asking questions, trying to get the other person to find the answer on their own.
 
 ## Good luck !
-
-![Bon chance](../../../assets/goodLuck.gif)
